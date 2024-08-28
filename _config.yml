@@ -3,13 +3,9 @@ description: Countdowns to top Networking and Measurement conference deadlines.
 author: Andrew Chu
 
 domain: ""
-baseurl: "https://noise-lab.net/networking-deadlines"
+baseurl: "https://icnlab.github.io/"
 # Use this baseurl for local testing with `jekyll serve`
 # baseurl: ""
-
-twitter_username: hiddenmarkov
-github_username: noise-lab
-github_repo: networking-deadlines
 
 markdown: kramdown
 
