@@ -84,6 +84,19 @@
   place: Sydney, Australia
   tags: [NET, CONF]
 
+- name: CoNEXT
+  year: 2025
+  date: "December 9 - 12"
+  description: International Conference on emerging Networking EXperiments and Technologies
+  link: TBD 
+  comment: |
+    Abstract deadlines: November 27, 2024 (23:59 AoE), June 7, 2025 (23:59 AoE) 
+  deadline:
+    - "2024-12-04 23:59"
+    - "2025-06-14 23:59"
+  place: TBD
+  tags: [NET, CONF]
+
 # Measurement
 - name: IMC
   year: 2024
@@ -131,3 +144,4 @@
     - "2025-01-22 23:59"
   place: Stony Brook, New York, USA
   tags: [MEASURE, CONF]
+
