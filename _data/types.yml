@@ -3,6 +3,10 @@
   tag: NET
 - name: Measurement
   tag: MEASURE
+- name: Distributed
+  tag: DIST
+- name: Wireless
+  tag: WIRELESS
 - name: Conference
   tag: CONF
 - name: Workshop

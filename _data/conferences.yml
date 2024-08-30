@@ -97,6 +97,30 @@
   place: TBD
   tags: [NET, CONF]
 
+# Distributed
+- name: ICDCS
+  year: 2025
+  date: "July 21 - 23"
+  description: IEEE International Conference on Distributed Computing Systems
+  link: https://www.icdcs2025.com 
+  comment: |
+    Abstract deadlines: December 4, 2024 (23:59 AoE) 
+  deadline:
+    - "2024-12-11 23:59"
+  place: Glasgow, Scotland, UK
+  tags: [DIST, CONF]
+
+- name: SAC
+  year: 2025
+  date: "March 31 - April 4"
+  description: ACM/SIGAPP Symposium On Applied Computing
+  link: https://www.sigapp.org/sac/sac2025/
+  comment: |
+  deadline:
+    - "2024-9-20 23:59"
+  place: Sicily, Italy 
+  tags: [DIST, CONF]
+
 # Measurement
 - name: IMC
   year: 2024
@@ -143,5 +167,16 @@
     - "2024-10-09 23:59"
     - "2025-01-22 23:59"
   place: Stony Brook, New York, USA
+  tags: [MEASURE, CONF]
+
+- name: NOMS
+  year: 2025
+  date: "MAY 12 - 16"
+  description: IEEE/IFIP Network Operations and Management Symposium
+  link: https://noms2025.ieee-noms.org
+  comment: |
+  deadline:
+    - "2024-09-13 23:59"
+  place: Honolulu, HI, USA
   tags: [MEASURE, CONF]
 
