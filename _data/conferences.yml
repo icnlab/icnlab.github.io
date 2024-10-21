@@ -8,7 +8,7 @@
   description: ACM International Conference on Mobile Systems, Applications, and Services
   link: https://sigmobile.org/mobisys/2025/
   comment: |
-   Abstract deadline: December 2
+   Abstract deadline: December 2, 2024 (23:59 AoE)
   deadline: ["2024-12-09"]
   place: Anaheim, California, USA
   tags: [WIRELESS, CONF]
@@ -135,14 +135,16 @@
 
 # Measurement
 - name: IMC
-  year: 2024
-  date: "November 4 - 6"
+  year: 2025
+  date: "October 28 - 31"
   description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2024
+  link: https://conferences.sigcomm.org/imc/2025
   comment: |
-    Abstract deadline: May 8 (23:59 AoE)
-  deadline: ["2024-05-15 23:59"]
-  place: Madrid, Spain
+    Abstract deadlines: November 14, 2024 (23:59 AoE), May 8, 2025 (23:59 AoE)
+  deadline:
+    - "2024-11-21 23:59"
+    - "2025-05-15 23:59"
+  place: Madison, Wisconsin, USA
   tags: [MEASURE, CONF]
 
 - name: PAM
