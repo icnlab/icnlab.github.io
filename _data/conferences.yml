@@ -1,6 +1,18 @@
 # By default, "timezone" is AoE
 # Deadline format: YYYY-MM-DD
 
+# Wireless
+- name: Mobisys
+  year: 2025
+  date: TBA
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  link: https://sigmobile.org/mobisys/2025/
+  comment: |
+   Abstract deadline: December 2
+  deadline: ["2024-12-09"]
+  place: Anaheim, California, USA
+  tags: [WIRELESS, CONF]
+
 # Networking
 - name: NSDI
   year: 2025
